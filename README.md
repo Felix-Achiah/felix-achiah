@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Achiah Ekow Felix</h1>
 <h3 align="center">Full Stack Maestro: Javascript | Python | DevOps | Cloud Magician</h3>
 
