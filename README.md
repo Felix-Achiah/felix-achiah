@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Achiah Ekow Felix</h1>
 <h3 align="center">Full Stack Maestro: Javascript | Python | DevOps | Cloud Magician</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-achiah)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
