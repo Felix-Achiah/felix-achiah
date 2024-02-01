@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/felix-achiah-pe-iaeng-a4746119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B60LxYvyER56qpEtVGD7%2FEg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/ing_ekow)/">
+  <a href="https://twitter.com/ing_ekow/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/your-handle/">
